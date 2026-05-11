@@ -11,6 +11,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | v0.11.0 | [`v0.11.0`](https://github.com/chainguard-actions/action-baseline/tree/v0.11.0) | — |
 | v0.13.0 | [`v0.13.0`](https://github.com/chainguard-actions/action-baseline/tree/v0.13.0) | — |
 | v0.14.0 | [`v0.14.0`](https://github.com/chainguard-actions/action-baseline/tree/v0.14.0) | — |
+| v0.15.0 | [`v0.15.0`](https://github.com/chainguard-actions/action-baseline/tree/v0.15.0) | — |
 
 ## Privacy
 
